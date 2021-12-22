@@ -8,4 +8,8 @@ here are some changes...
 
 update from branch update
 
-i hope this isn't much of a problem
+just something going on...
+
+Updates in stage
+
+More updates in working directory
